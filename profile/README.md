@@ -1,7 +1,4 @@
 ## Vain Audio
 
-PFT
-Orbit
-Sentinel
-Orange Gate
-Fumigate
+Mostly plugins
+[VainAudio.com](https://vainaudio.com/)
